@@ -5,7 +5,11 @@
 
 ## Demo
 <br>
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/KL3Sq44nY6I/0.jpg)](https://www.youtube.com/watch?v=KL3Sq44nY6I "淨零排放小遊戲Demo")
+<a href="https://www.youtube.com/watch?v=KL3Sq44nY6I" target="_blank">
+  <img src="http://img.youtube.com/vi/KL3Sq44nY6I/0.jpg" alt="淨零排放小遊戲Demo" style="width:50%; height:auto;">
+</a>
+
+
 ## Credits
 <br>
 國北教數資系111013234曾恆恩專題課作品
